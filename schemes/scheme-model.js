@@ -4,7 +4,8 @@ module.exports = {
     findById,
     findSteps,
     add,
-    remove
+    remove,
+    update
 }
 
 function find(){
